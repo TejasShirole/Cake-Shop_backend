@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
  "scripts": {
-  "start": "chmod +x ./node_modules/.bin/json-server && npx json-server db.json --host 0.0.0.0 --port $PORT"
+  "start": "json-server --watch db.json --port 2001"
 },
   "keywords": [],
   "author": "",
