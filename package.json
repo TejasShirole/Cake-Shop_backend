@@ -1,16 +1,10 @@
 {
-  "name": "json-backend",
+  "name": "my-project-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
- "scripts": {
-  "start": "json-server --watch db.json --port $PORT",
-  "start:dev": "json-server --watch db.json --port 2001"
+  "scripts": {
+  "start": "chmod +x ./node_modules/.bin/json-server && npx json-server db.json --host 0.0.0.0 --port $PORT"
 },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.17.3"
+ "dependencies": {
+    "json-server": "^0.17.4"
   }
 }
