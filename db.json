@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "user@gmail.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "cakes": [
+    {
+      "name": "Hot Breads Chocolate Cake Cake Shop in Chennai or Puducherry",
+      "price": "850",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3erFxtrRuCjkh6BxPUFxVezKf59HZIdMd2M2e_eCd32-uZ6cRRgR8y2Ewt6P5xivqRK2B9Hx_Qe7W4yVwRwJDyekhagoPdva2bfv5yjs",
+      "description": "Our premium selection of chocolate truffle cake is made from layers of rich chocolate cake and a decadent chocolate ganache decorate with a rosette of chocolate petals  - A Hot Breads Signature.",
+      "id": "3082"
+    },
+    {
+      "id": "35dd",
+      "name": "Fudge Brownie Cake Eggless by FNP",
+      "price": "1225",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSEx9G7xpbD51ZX6FCU6Owskd2aw_rRFm9RZ7pRQDA3IpUEMXDwPI6GLRFs_rKzFtqf2hTHGkz_rO5udfWmavZavH9wzfMFPRsJPIazxmYSi72lS4tujXM21g",
+      "description": "Store cream cakes in a refrigerator. Fondant cakes should be stored in an air conditioned environment. Slice and serve the cake at room temperature and make sure it is not exposed to heat. Use a serrated knife to cut a fondant cake. Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children."
+    },
+    {
+      "id": "99ba",
+      "name": "Rainbow Sprinkles Vanilla Cake 1 Kg Eggless",
+      "price": "1325",
+      "image": "https://www.fnp.com//images/pr/l/v20200707222026/rainbow-sprinkles-vanilla-cake-1-kg-eggless_1.jpg",
+      "description": "Store cream cakes in a refrigerator. Fondant cakes should be stored in an air conditioned environment. Slice and serve the cake at room temperature and make sure it is not exposed to heat. Use a serrated knife to cut a fondant cake. Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children. The cake should be consumed within 24 hours. Enjoy your cake"
+    },
+    {
+      "id": "4ba1",
+      "name": "Frosty Mug Designer Black Forest Cake 1.5 Kg Eggless",
+      "price": "1775",
+      "image": "https://www.fnp.com//images/pr/l/v20190529204553/frosty-mug-designer-black-forest-cake-15-kg-eggless_1.jpg",
+      "description": "Store cream cakes in a refrigerator. Fondant cakes should be stored in an air conditioned environment. Slice and serve the cake at room temperature and make sure it is not exposed to heat. Use a serrated knife to cut a fondant cake. Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children. The cake should be consumed within 24 hours. Enjoy your cake Manufacturer Details:  Ferns N Petals Private Limited Address: FNP Estate, Ashram Marg, Mandi Road, Gadaipur, South Delhi, Delhi, 110030 FSSAI License No. 10019011006502"
+    },
+    {
+      "id": "1cc2",
+      "name": "Personalised Forever Rose",
+      "price": "2199",
+      "image": "https://www.fnp.com//images/pr/l/v20250523143021/personalised-forever-rose-valentine-gift_1.jpg",
+      "description": "Nestled in a charming glass box a single red forever rose stands as an enduring symbol of your everlasting affection This timeless blossom is uniquely adorned with your special ones name adding a personal touch to its eternal beauty As a romantic gesture this gift transcends fleeting moments becoming a lasting reminder of your love that will forever bloom Give the gift of everlasting romance to your beloved Product Details  Red forever rose 1 For personalisation please provide us with 1 name Net Quantity: 1 Set Dimensions: 5x4 inch Weight: Approx 250-350 gms Country of Origin: India"
+    },
+    {
+      "id": "0a12",
+      "name": "Crunchy Caramel Walnut Cake 2 Kg Eggless",
+      "price": "3525",
+      "image": "https://www.fnp.com//images/pr/l/v20190507132042/crunchy-caramel-walnut-cake-2-kg-eggless_1.jpg",
+      "description": "Product Details:  Cake Flavour- Caramel Walnut Version- Eggless Type of Cake- Cream Weight- 2 Kg Shape- Round Serves- 20-24 People Size: 30 cm (approx) Net Quantity- 1 Country of Origin- India Please Note:  The cake stand, cutlery accessories used in the image are only for representation purposes. They are not delivered with the cake. This cake is hand delivered in a good quality cardboard box."
+    },
+    {
+      "id": "f43b",
+      "name": "Cricket Pitch Cake 3kg Vanilla",
+      "price": "3825",
+      "image": "https://www.fnp.com//images/pr/l/v20170720152506/cricket-pitch-cake-3kg-vanilla_1.jpg",
+      "description": "Product Details:  Cake Flavour- Vanilla Type of Cake- Semi Fondant Weight- 3 Kg Shape- Round Serves- 30-36 People Size: 30 cm (approx) Net Quantity- 1 Country of Origin- India"
+    },
+    {
+      "id": "71fc",
+      "name": "Fluffy & Smooth Pineapple Fondant Cake - 2 Kg",
+      "price": "3899",
+      "image": "https://www.fnp.com//images/pr/l/v20250409170950/fluffy-n-smooth-pineapple-fondant-cake-2-kg_1.jpg",
+      "description": "Bring a burst of tropical delight to any celebration with the Pineapple Fondant Cake. Featuring layers of soft moist sponge infused with refreshing pineapple flavour and wrapped in a smooth elegant fondant finish this cake is a true showstopper. Perfect for birthdays anniversaries or thoughtful surprises it s a gift that brings sunshine to every occasion. The sweet and tangy taste creates a refreshing indulgence making every bite a moment to savour. Whether for a loved one or a grand celebration this cake adds a touch of fruity elegance to any gathering. Product Details:  Flavour: Pineapple Type of Cake: Fondant Cake Weight: 2 Kg Cakes Version: Contains Egg Net Quantity: 1 Cake Serves: 20-24 people Country Of Origin: India"
+    },
+    {
+      "id": "ca64",
+      "name": "Red Velvet Heart Cake Half Kg",
+      "price": "925",
+      "image": "https://www.fnp.com//images/pr/l/v20210701022540/red-velvet-heart-cake-half-kg_1.jpg",
+      "description": "Product Details:  Cake Flavour- Red Velvet Type of Cake - Cream Weight- Half Kg Shape- Heart Shaped Serves- 4-6 People Size: 15 cm (approx) Net Quantity- 1 Country of Origin- India Please Note:  The cake stand, cutlery accessories used in the image are only for representation purposes. They are not delivered with the cake. This cake is hand delivered in a good quality cardboard box."
+    },
+    {
+      "id": "7179",
+      "name": "Heavenly Butterscotch Cream Cake 1 Kg",
+      "price": "1025",
+      "image": "https://www.fnp.com//images/pr/l/v20250519213033/heavenly-butterscotch-cream-cake-1-kg_1.jpg",
+      "description": "Product Details:  Cake Flavour- Butterscotch Type of Cake- Cream Shape- Round Weight: 1 Kg Net Quantity: 1 Cake Diameter: 9 inch Country Of Origin: India Serves: 10-12 People Ingredients:  Vanilla premix, Refined oil, Breakfast Sugar, Whip topping cream, Dark Chocolate compound, White Chocolate Compound, ButterScotch Crush, Caramel Filling, ButterScotch Nuts, ButterScotch Essence, Color Yellow, Color Orange Please Note:"
+    },
+    {
+      "id": "ced5",
+      "name": "Chocolaty Truffle Cake 1Kg",
+      "price": "1125",
+      "image": "https://www.fnp.com//images/pr/l/v20250209122018/chocolaty-truffle-cake-1kg_1.jpg",
+      "description": "Product Details:  Cake Flavour- Chocolate Type of Cake - Truffle Shape- Round Weight: 1 Kg Net Quantity: 1 Cake Diameter: 9 inch Country Of Origin: India Serves: 10-12 People Ingredients:  Chocolate premix, Refined oil, Breakfast Sugar, Chocolate Truffle Base, Dark Chocolate compound, White Chocolate Compound, Chocolate Glaze Please Note:  The cake stand, cutlery accessories used in the image are only for representation purposes. They are not delivered with the cake. This cake is hand delivered in a good quality cardboard box.."
+    }
+  ]
+}
