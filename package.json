@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
  "scripts": {
-  "start": "json-server --watch db.json --port 2001"
+  "start": "json-server --watch db.json --port $PORT",
+  "start:dev": "json-server --watch db.json --port 2001"
 },
   "keywords": [],
   "author": "",
